@@ -1,4 +1,4 @@
-package com.stephenhitchner.common.io.reader;
+package com.kitschframework.common.io.reader;
 
 import java.io.BufferedReader;
 import java.io.DataInputStream;
@@ -8,11 +8,11 @@ import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.util.zip.GZIPInputStream;
 
-import com.stephenhitchner.common.io.DataRow;
-import com.stephenhitchner.common.io.DataRowException;
-import com.stephenhitchner.common.s3.S3Bucket;
-import com.stephenhitchner.common.s3.S3Client;
-import com.stephenhitchner.common.s3.S3Object;
+import com.kitschframework.common.io.DataRow;
+import com.kitschframework.common.io.DataRowException;
+import com.kitschframework.common.s3.S3Bucket;
+import com.kitschframework.common.s3.S3Client;
+import com.kitschframework.common.s3.S3Object;
 
 /**
  * FileDataReader

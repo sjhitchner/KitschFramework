@@ -1,9 +1,9 @@
-package com.stephenhitchner.common.exceptions.internal;
+package com.kitschframework.common.exceptions.internal;
 
 import java.util.logging.Level;
 
-import com.stephenhitchner.common.exceptions.CommonException;
-import com.stephenhitchner.common.exceptions.PartyAtFault;
+import com.kitschframework.common.exceptions.CommonException;
+import com.kitschframework.common.exceptions.PartyAtFault;
 
 /**
  * An derivative of InternalException should be thrown when an application is

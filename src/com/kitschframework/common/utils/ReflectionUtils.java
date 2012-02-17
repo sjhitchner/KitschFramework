@@ -1,4 +1,4 @@
-package com.stephenhitchner.common.utils;
+package com.kitschframework.common.utils;
 
 import java.lang.reflect.Constructor;
 import java.lang.reflect.Field;
@@ -11,7 +11,7 @@ import java.util.Map;
 
 import org.apache.commons.lang3.ObjectUtils;
 
-import com.stephenhitchner.common.exceptions.AssertionFailureException;
+import com.kitschframework.common.exceptions.AssertionFailureException;
 
 /**
  * Utility class that makes it easy to do common Reflection operations.

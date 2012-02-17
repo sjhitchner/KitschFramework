@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.stephenhitchner.common.io;
+package com.kitschframework.common.io;
 
 /**
  * 

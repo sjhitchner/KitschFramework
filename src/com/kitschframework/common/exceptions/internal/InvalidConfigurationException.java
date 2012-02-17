@@ -1,4 +1,4 @@
-package com.stephenhitchner.common.exceptions.internal;
+package com.kitschframework.common.exceptions.internal;
 
 
 /**

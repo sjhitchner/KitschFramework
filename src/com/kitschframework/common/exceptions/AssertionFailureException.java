@@ -1,4 +1,4 @@
-package com.stephenhitchner.common.exceptions;
+package com.kitschframework.common.exceptions;
 
 /**
  * Indicates a code-level assertion has failed due to programmer error. These

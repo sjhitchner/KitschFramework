@@ -1,9 +1,9 @@
-package com.stephenhitchner.common.exceptions.dependency;
+package com.kitschframework.common.exceptions.dependency;
 
 import java.util.logging.Level;
 
-import com.stephenhitchner.common.exceptions.CommonException;
-import com.stephenhitchner.common.exceptions.PartyAtFault;
+import com.kitschframework.common.exceptions.CommonException;
+import com.kitschframework.common.exceptions.PartyAtFault;
 
 /**
  * Indicates that the Application/Service is unable to process a request due to

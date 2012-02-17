@@ -1,9 +1,9 @@
 /**
  * 
  */
-package com.stephenhitchner.common.io.writer;
+package com.kitschframework.common.io.writer;
 
-import com.stephenhitchner.common.io.DataRowException;
+import com.kitschframework.common.io.DataRowException;
 
 /**
  * TabDelimitedDataWriterFactory

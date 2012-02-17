@@ -1,11 +1,11 @@
-package com.stephenhitchner.common.utils;
+package com.kitschframework.common.utils;
 
 import java.util.Collection;
 import java.util.regex.Pattern;
 
 import org.apache.commons.lang3.StringUtils;
 
-import com.stephenhitchner.common.exceptions.AssertionFailureException;
+import com.kitschframework.common.exceptions.AssertionFailureException;
 
 /**
  * Utility class for programmers to perform assertions in there code. This class

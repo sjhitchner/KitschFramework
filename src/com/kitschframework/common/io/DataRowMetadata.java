@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.stephenhitchner.common.io;
+package com.kitschframework.common.io;
 
 import java.io.Serializable;
 import java.util.ArrayList;
@@ -66,7 +66,6 @@ public class DataRowMetadata implements Iterable<String>, Serializable {
      * Returns an iterator of the keys, TODO might not be completely obvious, might change
      * this to an Entry set, allows string allows for simple code
      */
-    @Override
     public Iterator<String> iterator() {
         return map.keySet().iterator();
     }

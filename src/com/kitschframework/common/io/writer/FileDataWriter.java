@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.stephenhitchner.common.io.writer;
+package com.kitschframework.common.io.writer;
 
 import java.io.BufferedWriter;
 import java.io.DataOutputStream;
@@ -12,8 +12,8 @@ import java.io.OutputStream;
 import java.io.OutputStreamWriter;
 import java.util.zip.GZIPOutputStream;
 
-import com.stephenhitchner.common.io.DataRow;
-import com.stephenhitchner.common.io.DataRowException;
+import com.kitschframework.common.io.DataRow;
+import com.kitschframework.common.io.DataRowException;
 
 /**
  * FileDataWriter 

@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.stephenhitchner.common.io;
+package com.kitschframework.common.io;
 
 import java.io.Serializable;
 import java.text.ParseException;
@@ -16,7 +16,7 @@ import java.util.Set;
 
 import org.codehaus.jackson.map.ObjectWriter;
 
-import com.stephenhitchner.common.utils.SerializationUtils;
+import com.kitschframework.common.utils.SerializationUtils;
 
 public class DataRow implements Iterable<String>, Serializable
 {

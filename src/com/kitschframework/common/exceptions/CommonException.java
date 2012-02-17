@@ -1,4 +1,4 @@
-package com.stephenhitchner.common.exceptions;
+package com.kitschframework.common.exceptions;
 
 import java.util.logging.Level;
 

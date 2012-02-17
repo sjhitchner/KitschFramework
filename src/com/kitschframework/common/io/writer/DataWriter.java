@@ -1,7 +1,7 @@
-package com.stephenhitchner.common.io.writer;
+package com.kitschframework.common.io.writer;
 
-import com.stephenhitchner.common.io.DataRow;
-import com.stephenhitchner.common.io.DataRowException;
+import com.kitschframework.common.io.DataRow;
+import com.kitschframework.common.io.DataRowException;
 
 /**
  * Abstraction of how to write Data to a file or other source

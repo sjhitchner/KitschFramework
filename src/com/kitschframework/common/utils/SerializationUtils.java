@@ -1,4 +1,4 @@
-package com.stephenhitchner.common.utils;
+package com.kitschframework.common.utils;
 
 import org.codehaus.jackson.map.ObjectMapper;
 import org.codehaus.jackson.map.ObjectWriter;

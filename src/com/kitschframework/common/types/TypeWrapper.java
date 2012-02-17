@@ -1,11 +1,11 @@
-package com.stephenhitchner.common.types;
+package com.kitschframework.common.types;
 
 import java.io.Serializable;
 
 import org.apache.commons.lang3.builder.EqualsBuilder;
 
-import com.stephenhitchner.common.exceptions.AssertionFailureException;
-import com.stephenhitchner.common.utils.Assert;
+import com.kitschframework.common.exceptions.AssertionFailureException;
+import com.kitschframework.common.utils.Assert;
 
 /**
  * Attempts to alleviate the problem of having logically different types that

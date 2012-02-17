@@ -1,4 +1,4 @@
-package com.stephenhitchner.common.exceptions.dependency;
+package com.kitschframework.common.exceptions.dependency;
 
 /**
  * Indicates that a call to a remove service timed out.

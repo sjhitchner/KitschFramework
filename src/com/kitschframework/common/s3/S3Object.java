@@ -1,4 +1,4 @@
-package com.stephenhitchner.common.s3;
+package com.kitschframework.common.s3;
 
 import java.io.InputStream;
 

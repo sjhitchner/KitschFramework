@@ -1,14 +1,14 @@
 /**
  * 
  */
-package com.stephenhitchner.common.io.reader;
+package com.kitschframework.common.io.reader;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 
-import com.stephenhitchner.common.io.DataRow;
-import com.stephenhitchner.common.io.DataRowException;
-import com.stephenhitchner.common.io.DataRowMetadata;
+import com.kitschframework.common.io.DataRow;
+import com.kitschframework.common.io.DataRowException;
+import com.kitschframework.common.io.DataRowMetadata;
 
 public class TabDelimitedDataRowParser implements DataRowParser
 {

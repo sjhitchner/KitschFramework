@@ -1,9 +1,9 @@
-package com.stephenhitchner.common.exceptions.client;
+package com.kitschframework.common.exceptions.client;
 
 import java.util.logging.Level;
 
-import com.stephenhitchner.common.exceptions.CommonException;
-import com.stephenhitchner.common.exceptions.PartyAtFault;
+import com.kitschframework.common.exceptions.CommonException;
+import com.kitschframework.common.exceptions.PartyAtFault;
 
 /**
  * A ClientException is an Exception that is caused by the client/user of an

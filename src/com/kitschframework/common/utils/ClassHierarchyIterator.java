@@ -1,4 +1,4 @@
-package com.stephenhitchner.common.utils;
+package com.kitschframework.common.utils;
 
 import java.util.Iterator;
 

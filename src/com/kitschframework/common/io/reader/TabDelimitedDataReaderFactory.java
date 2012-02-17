@@ -1,9 +1,9 @@
 /**
  * 
  */
-package com.stephenhitchner.common.io.reader;
+package com.kitschframework.common.io.reader;
 
-import com.stephenhitchner.common.io.DataRowException;
+import com.kitschframework.common.io.DataRowException;
 
 public class TabDelimitedDataReaderFactory extends DataReaderFactory
 {
